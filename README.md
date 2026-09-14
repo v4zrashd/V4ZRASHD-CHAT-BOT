@@ -55,12 +55,49 @@
 
 <div align="center">
 
+<!-- CSS Style for Animation -->
+<style>
+  .animated-img {
+    border-radius: 50%;
+    animation: float 3s ease-in-out infinite, glow 2s alternate infinite;
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+  }
+  
+  .text-gradient {
+    background: linear-gradient(90deg, #00f2fe, #4facfe, #ff8a00, #ff2d95, #00f2fe);
+    background-size: 300% 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientMove 4s linear infinite;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+
+  @keyframes glow {
+    0% { box-shadow: 0 0 10px rgba(0, 242, 254, 0.5); }
+    100% { box-shadow: 0 0 25px rgba(255, 45, 149, 0.8); }
+  }
+
+  @keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+  }
+</style>
+
 | | |
 |:-:|:-:|
-| <img src="Script/commands/cache/owner1.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #00f2fe; box-shadow:0 0 18px #00f2fe88;" /> | <img src="Script/commands/cache/owner2.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff8a00; box-shadow:0 0 18px #ff8a0088;" /> |
-| **RASHED** | **V4ZRASHD** |
-| <img src="Script/commands/cache/owner3.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff2d95; box-shadow:0 0 18px #ff2d9588;" /> | <img src="Script/commands/cache/owner4.png" width="190" height="190" style="border-radius:50%; border:4px solid #43e97b; box-shadow:0 0 18px #43e97b88;" /> |
-| **Chat Bot Developer** | **AIGC / Content Creator** |
+| <img src="Script/commands/cache/owner2.jpg" class="animated-img" /> | <img src="Script/commands/cache/owner4.png" class="animated-img" /> |
+| <span class="text-gradient">ECSZ</span> | <span class="text-gradient">Controller SUROJ</span> |
+| <img src="Script/commands/cache/owner3.jpg" class="animated-img" /> | <img src="Script/commands/cache/owner1.jpg" class="animated-img" /> |
+| <span class="text-gradient">Sohag Bhai BD Facebook XCSZ</span> | <span class="text-gradient">V4ZRASHD</span> |
 
 </div>
 
@@ -123,62 +160,71 @@ git clone https://github.com/v4zrashd/V4ZRASHD-CHAT-BOT.git
 cd V4ZRASHD-CHAT-BOT
 ```
 
-### ⚙️ Step 3 — Install Dependencies
+⚙️ Step 3 — Install Dependencies
+
 ```bash
 npm install
 ```
-> 💡 **Termux / storage permission issue?** Use this instead:
-> ```bash
-> npm install --no-bin-links --ignore-scripts
-> ```
 
-### 🔑 Step 4 — Add Your Facebook Session (`appstate.json`)
-Inside the bot folder, create a file named **`appstate.json`** and paste your **Facebook login cookies / appstate** there.  
-> ⚠️ **WARNING:** Never share this file with anyone — it logs into your Facebook account!
+💡 Termux / storage permission issue? Use this instead:
 
-### ▶️ Step 5 — Start The Bot
+```bash
+npm install --no-bin-links --ignore-scripts
+```
+
+🔑 Step 4 — Add Your Facebook Session (appstate.json)
+
+Inside the bot folder, create a file named appstate.json and paste your Facebook login cookies / appstate there.
+
+⚠️ WARNING: Never share this file with anyone — it logs into your Facebook account!
+
+▶️ Step 5 — Start The Bot
+
 ```bash
 node v4zrashd.js
 ```
-- The bot restarts itself automatically if it crashes.
-- Dashboard runs on **port 8080** (http://localhost:8080).
 
-### 🔁 Bonus — Keep It Alive 24/7
-- Deploy to any free host (**Replit / Render / Railway**) for 24/7 uptime.
-- A GitHub Actions workflow (`.github/workflows/`) is included for testing.
+· The bot restarts itself automatically if it crashes.
+· Dashboard runs on port 8080 (http://localhost:8080).
+
+🔁 Bonus — Keep It Alive 24/7
+
+· Deploy to any free host (Replit / Render / Railway) for 24/7 uptime.
+· A GitHub Actions workflow (.github/workflows/) is included for testing.
 
 <br>
 
 <!-- ============ DEPLOYMENT ============ -->
 
-## 🚀 Deployments
+🚀 Deployments
 
-| **Platform** | **Action** |
-|:--|:--|
-| ![Replit](https://img.shields.io/badge/Replit-F26D00?style=for-the-badge&logo=replit&logoColor=white) | [![Deploy](https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge)](https://replit.com) |
-| ![Render](https://img.shields.io/badge/Render-3FE0C5?style=for-the-badge&logo=render&logoColor=black) | [![Deploy](https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge)](https://render.com) |
-| ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) | [![Deploy](https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge)](https://railway.app) |
+Platform Action
+https://img.shields.io/badge/Replit-F26D00?style=for-the-badge&logo=replit&logoColor=white https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge
+https://img.shields.io/badge/Render-3FE0C5?style=for-the-badge&logo=render&logoColor=black https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge
+https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white https://img.shields.io/badge/DEPLOY-CLICK%20HERE-blue?style=for-the-badge
 
 <br>
 
 <!-- ============ DEVELOPER ============ -->
 
-## 👨‍💻 About The Developer
+👨‍💻 About The Developer
 
-**Name:** 💙 `RASHED (V4ZRASHD)`  
-**Profession:** 💼 `Chat Bot Developer & AIGC Content Creator`  
+Name: 💙 RASHED (V4ZRASHD)
+Profession: 💼 Chat Bot Developer & AIGC Content Creator
 
-#### 📞 Contact
-- **Telegram Channel:** [t.me/v4zrasehd](https://t.me/v4zrasehd)
-- **Telegram:** [t.me/Darkbdx1](https://t.me/Darkbdx1)
-- **YouTube:** [youtube.com/@V4Zteem](https://www.youtube.com/@V4Zteem)
-- **GitHub:** [github.com/v4zrashd](https://github.com/v4zrashd)
-- **Facebook Page:** 🚧 Coming Soon...
+📞 Contact
 
-#### ⚡ Approach
-- 💻 Copy-paste techniques with deep customizations.
-- 🤝 Collaborative development with friends.
-- 🤖 AI-powered workflow using modern tools.
+· Telegram Channel: t.me/v4zrasehd
+· Telegram: t.me/Darkbdx1
+· YouTube: youtube.com/@V4Zteem
+· GitHub: github.com/v4zrashd
+· Facebook Page: 🚧 Coming Soon...
+
+⚡ Approach
+
+· 💻 Copy-paste techniques with deep customizations.
+· 🤝 Collaborative development with friends.
+· 🤖 AI-powered workflow using modern tools.
 
 <br>
 
@@ -186,7 +232,7 @@ node v4zrashd.js
 
 <!-- ============ SUPPORT / FOOTER ============ -->
 
-## ❖ Support
+❖ Support
 
 Need help? Contact the admin via Telegram — we reply fast! 💬
 
@@ -210,6 +256,8 @@ Need help? Contact the admin via Telegram — we reply fast! 💬
   <img src="https://img.shields.io/badge/LICENSED%20BY-V4ZRASHD-ff2d95?style=for-the-badge"/>
 </p>
 
---- 
+---
 
-**© 2026 V4ZRASHD — All rights reserved.**
+© 2026 V4ZRASHD — All rights reserved.
+
+```
