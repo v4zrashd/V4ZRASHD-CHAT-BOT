@@ -1,10 +1,10 @@
-<div align="center">
+div align="center">
 
 <!-- ============ ANIMATED GRADIENT HERO BANNER ============ -->
 <div style="width:100%; padding:18px 0; border-radius:18px; background:linear-gradient(120deg,#0b0c1e,#1a2340,#123,#0b0c1e); border:2px solid rgba(255,255,255,.08);">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=600&color=00E5FF&center=true&vCenter=true&width=620&lines=✦+Assalamualaikum+Everyone+✦;✦+Welcome+To+V4ZRASHD+CHAT+BOT+✦;✦+Developed+By+ECSZ+(V4ZRASHD)+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=600&color=00E5FF&center=true&vCenter=true&width=620&lines=✦+Assalamualaikum+Everyone+✦;✦+Welcome+To+V4ZRASHD+CHAT+BOT+✦;✦+Developed+By+RASHD+✦" />
 </p>
 
 <!-- ANIMATED GRADIENT TEXT (SMIL animation, renders on GitHub) -->
@@ -26,7 +26,7 @@
   <rect x="0" y="0" width="1000" height="150" rx="20" fill="#101428"/>
   <rect x="0" y="0" width="1000" height="150" rx="20" fill="url(#bgGrad)"/>
   <text x="500" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="56" font-weight="bold" fill="url(#rainbowGrad)" letter-spacing="3">V4ZRASHD CHAT BOT</text>
-  <text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', Tahoma, sans-serif" font-size="24" fill="#e6f7ff" opacity=".9" letter-spacing="1">🚀 DEVELOPED BY <tspan fill="#ff8a00" font-weight="bold">ECSZ (ECSZ)</tspan> 🚀</text>
+  <text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', Tahoma, sans-serif" font-size="24" fill="#e6f7ff" opacity=".9" letter-spacing="1">🚀 DEVELOPED BY <tspan fill="#ff8a00" font-weight="bold">ECSZ</tspan> 🚀</text>
 </svg>
 
 </div>
@@ -57,15 +57,15 @@
 
 | | |
 |:-:|:-:|
-| <img src="Script/commands/cache/owner2.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #00f2fe; box-shadow:0 0 18px #00f2fe88;" /> | <img src="Script/commands/cache/owner1.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff8a00; box-shadow:0 0 18px #ff8a0088;" /> |
-| **V4ZRASHD** | **Chat Bot Developer** |
-| <img src="Script/commands/cache/owner4.png" width="190" height="190" style="border-radius:50%; border:4px solid #ff2d95; box-shadow:0 0 18px #ff2d9588;" /> | <img src="Script/commands/cache/owner3.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #43e97b; box-shadow:0 0 18px #43e97b88;" /> |
-| **ECSZ** | **AIGC / Content Creator** |
+| <img src="Script/commands/cache/owner1.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #00f2fe; box-shadow:0 0 18px #00f2fe88;" /> | <img src="Script/commands/cache/owner2.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff8a00; box-shadow:0 0 18px #ff8a0088;" /> |
+| **ECSZ** | **SUROJ** |
+| <img src="Script/commands/cache/owner3.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff2d95; box-shadow:0 0 18px #ff2d9588;" /> | <img src="Script/commands/cache/owner4.png" width="190" height="190" style="border-radius:50%; border:4px solid #43e97b; box-shadow:0 0 18px #43e97b88;" /> |
+| **Sohag Bhai BD Facebook XCSZ** | **RASHD** |
 
 </div>
 
 > ✪ **Shahadat & Sahu** are no longer the owner of this project.  
-> This bot is now fully owned & maintained by **ECSZ (V4ZRASHD)**.
+> This bot is now fully owned & maintained by **RASHD**.
 
 <br>
 
@@ -172,7 +172,7 @@ https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&log
 
 👨‍💻 About The Developer
 
-Name: 💙 ECSZ (V4ZRASHD)
+Name: 💙 RASHD
 Profession: 💼 Chat Bot Developer & AIGC Content Creator
 
 📞 Contact
