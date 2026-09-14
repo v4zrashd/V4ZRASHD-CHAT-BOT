@@ -26,7 +26,7 @@
   <rect x="0" y="0" width="1000" height="150" rx="20" fill="#101428"/>
   <rect x="0" y="0" width="1000" height="150" rx="20" fill="url(#bgGrad)"/>
   <text x="500" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="56" font-weight="bold" fill="url(#rainbowGrad)" letter-spacing="3">V4ZRASHD CHAT BOT</text>
-  <text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', Tahoma, sans-serif" font-size="24" fill="#e6f7ff" opacity=".9" letter-spacing="1">🚀 DEVELOPED BY <tspan fill="#ff8a00" font-weight="bold">ECSZ (V4ZRASHD)</tspan> 🚀</text>
+  <text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', Tahoma, sans-serif" font-size="24" fill="#e6f7ff" opacity=".9" letter-spacing="1">🚀 DEVELOPED BY <tspan fill="#ff8a00" font-weight="bold">ECSZ (ECSZ)</tspan> 🚀</text>
 </svg>
 
 </div>
