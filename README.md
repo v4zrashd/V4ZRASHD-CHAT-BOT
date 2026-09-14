@@ -61,8 +61,6 @@
 | **RASHED** | **V4ZRASHD** |
 | <img src="Script/commands/cache/owner3.jpg" width="190" height="190" style="border-radius:50%; border:4px solid #ff2d95; box-shadow:0 0 18px #ff2d9588;" /> | <img src="Script/commands/cache/owner4.png" width="190" height="190" style="border-radius:50%; border:4px solid #43e97b; box-shadow:0 0 18px #43e97b88;" /> |
 | **Chat Bot Developer** | **AIGC / Content Creator** |
-| <img src="Script/commands/cache/owner5.png" width="190" height="190" style="border-radius:50%; border:4px solid #a78bfa; box-shadow:0 0 18px #a78bfa88;" /> | |
-| **Team V4ZRASHD** | |
 
 </div>
 

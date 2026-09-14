@@ -38,7 +38,7 @@ module.exports.run = async function ({ api, event }) {
 ╚═════════════════════ ✿
 `;
 
-  const localImages = ["owner1.jpg", "owner2.jpg", "owner3.jpg", "owner4.png", "owner5.png"];
+  const localImages = ["owner1.jpg", "owner2.jpg", "owner3.jpg", "owner4.png"];
   const existing = localImages.filter(f => fs.existsSync(path.join(cacheDir, f)));
 
   const attachments = existing.length

@@ -17,7 +17,6 @@ Script/commands/cache/*
 !Script/commands/cache/owner2.jpg
 !Script/commands/cache/owner3.jpg
 !Script/commands/cache/owner4.png
-!Script/commands/cache/owner5.png
 Script/events/cache/*
 !Script/events/cache/joinGif/
 !Script/events/cache/joinGif/*
