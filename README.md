@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <!-- ============ ANIMATED GRADIENT HERO BANNER ============ -->
