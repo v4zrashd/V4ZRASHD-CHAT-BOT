@@ -1,0 +1,25 @@
+# Sensitive / credentials
+appstate.json
+*.appstate
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Databases
+*.sqlite
+*.sqlite3
+
+# Cache & runtime data
+Script/commands/cache/
+Script/events/cache/
+cache/
+*.log
+*.txt.bak
+replit.tmp
+.uptime
+
+# System
+.DS_Store
+Thumbs.db
