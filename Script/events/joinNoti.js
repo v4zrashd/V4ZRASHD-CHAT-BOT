@@ -57,7 +57,7 @@ ${botPrefix}Info
 ${botPrefix}Admin
 
 ★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 কে নক করতে পারেন ★
-➤𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/Darkbdx1
+➤𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/rashdteem
 ➤𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://t.me/v4zrasehd
 
 ❖⋆═══════════════════════⋆❖

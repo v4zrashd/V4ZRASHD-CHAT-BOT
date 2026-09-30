@@ -31,7 +31,7 @@ module.exports.run = async ({ api, event }) => {
 
 𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽: V4ZRASHD
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: https://t.me/v4zrasehd
-𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼: https://t.me/Darkbdx1
+𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼: https://t.me/rashdteem
 
 _সাথেই থাকুন 🌺─꯭─⃝‌‌𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🌸_
 

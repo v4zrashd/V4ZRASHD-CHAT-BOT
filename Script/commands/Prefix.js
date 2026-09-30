@@ -48,7 +48,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 『 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 』
 
 ➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 𝐑𝐀𝐒𝐇𝐄𝐃
-➤ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺    : t.me/Darkbdx1
+➤ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺    : t.me/rashdteem
 ➤ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹    : t.me/v4zrasehd
 ➤ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲    : youtube.com/@V4Zteem
 

@@ -26,7 +26,7 @@ ${global.config.PREFIX}info
 ${global.config.PREFIX}admin
 
 ★ For any help or complaints, please contact admin ★
-➤ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/Darkbdx1
+➤ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/rashdteem
 ➤ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://t.me/v4zrasehd
 
 ❖⋆═══════════════════════⋆❖

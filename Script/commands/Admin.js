@@ -39,7 +39,7 @@ module.exports.run = async function({ api, event }) {
 │✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹:
 │https://t.me/v4zrasehd
 │💬 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺:
-│https://t.me/Darkbdx1
+│https://t.me/rashdteem
 │▶️ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲:
 │https://youtube.com/@V4Zteem
 │🐙 𝗚𝗶𝘁𝗛𝘂𝗯:

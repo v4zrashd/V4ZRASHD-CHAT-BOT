@@ -55,7 +55,7 @@ module.exports.run = async ({ api, event, args }) => {
         const fsPic = __dirname + "/cache/owner1.jpg";
         return api.sendMessage(
             {
-                body: `———»ADMIN BOT«———\n❯ Name: 𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 𝐑𝐀𝐒𝐇𝐄𝐃\n❯ Telegram: https://t.me/Darkbdx1\n❯ Channel: https://t.me/v4zrasehd\n❯ YouTube: https://www.youtube.com/@V4Zteem\n❯ GitHub: https://github.com/v4zrashd\n❯ Thanks for using ${global.config.BOTNAME} bot`,
+                body: `———»ADMIN BOT«———\n❯ Name: 𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 𝐑𝐀𝐒𝐇𝐄𝐃\n❯ Telegram: https://t.me/rashdteem\n❯ Channel: https://t.me/v4zrasehd\n❯ YouTube: https://www.youtube.com/@V4Zteem\n❯ GitHub: https://github.com/v4zrashd\n❯ Thanks for using ${global.config.BOTNAME} bot`,
                 attachment: fs.existsSync(fsPic) ? fs.createReadStream(fsPic) : []
             },
             event.threadID,

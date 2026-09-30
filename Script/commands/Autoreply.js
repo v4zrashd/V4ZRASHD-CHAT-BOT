@@ -32,7 +32,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good night": "Sweet Dream babu… তবে আগে রাশেদ বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "SHAHADAT এখন আর নেই..! এখানে এখন শুধু আমার বস 𝐕𝟒𝐙𝐑𝐀𝐒𝐇𝐃 (রাশেদ) 🧡😼",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ V4ZRASHD ☜\nTelegram Channel: https://t.me/v4zrasehd\nTelegram: https://t.me/Darkbdx1\nYouTube: https://youtube.com/@V4Zteem\nGitHub: https://github.com/v4zrashd",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ V4ZRASHD ☜\nTelegram Channel: https://t.me/v4zrasehd\nTelegram: https://t.me/rashdteem\nYouTube: https://youtube.com/@V4Zteem\nGitHub: https://github.com/v4zrashd",
     "admin": "He is V4ZRASHD তাকে সবাই Admin RASHED হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",

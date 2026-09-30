@@ -39,7 +39,7 @@ div align="center">
 <div align="center">
   <a href="https://github.com/v4zrashd"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/v4zrasehd"><img src="https://img.shields.io/badge/TELEGRAM%20CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/Darkbdx1"><img src="https://img.shields.io/badge/TELEGRAM%20CHAT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/rashdteem"><img src="https://img.shields.io/badge/TELEGRAM%20CHAT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@V4Zteem"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=v4zrashd&label=Repos%C3%B6&style=for-the-badge&color=ff2d95"/>
 </div>
@@ -178,7 +178,7 @@ Profession: 💼 Chat Bot Developer & AIGC Content Creator
 📞 Contact
 
 · Telegram Channel: t.me/v4zrasehd
-· Telegram: t.me/Darkbdx1
+· Telegram: t.me/rashdteem
 · YouTube: youtube.com/@V4Zteem
 · GitHub: github.com/v4zrashd
 · Facebook Page: 🚧 Coming Soon...
@@ -203,7 +203,7 @@ Need help? Contact the admin via Telegram — we reply fast! 💬
   <a href="https://t.me/v4zrasehd">
     <img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://t.me/Darkbdx1">
+  <a href="https://t.me/rashdteem">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://github.com/v4zrashd/V4ZRASHD-CHAT-BOT">
