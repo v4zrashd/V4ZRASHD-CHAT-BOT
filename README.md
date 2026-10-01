@@ -1,3 +1,5 @@
+![V4Z RASHD CHAT BOT](https://files.catbox.moe/gfiour.jpg)
+
 div align="center">
 
 <!-- ============ ANIMATED GRADIENT HERO BANNER ============ -->
